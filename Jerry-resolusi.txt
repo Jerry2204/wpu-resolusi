@@ -1,0 +1,4 @@
+Halo pak, salam kenal nama saya Jerry Andrianto Pangaribuan dari Kabupaten Simalungun
+Resolusi saya:
+- Membuat sebuah website desa wisata dengan menggunakan framework laravel
+- Saya ingin bekerja di startup
